@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:checked="true"
+            android:icon="@drawable/home"
+            android:title="@string/activity_home"/>
+
+        <item
+            android:id="@+id/nav_apartments"
+            android:icon="@drawable/hotel"
+            android:title="@string/activity_apartments"/>
+
+        <item
+            android:id="@+id/nav_zlatibor"
+            android:icon="@drawable/mountain"
+            android:title="@string/activity_zlatibor"/>
+
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/camera"
+            android:title="@string/activity_gallery"/>
+
+        <item
+            android:id="@+id/nav_contact"
+            android:icon="@drawable/call"
+            android:title="@string/activity_contact"/>
+
+    </group>
+
+</menu>

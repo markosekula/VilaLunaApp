@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">VilaLuna App</string>
+    <string name="activity_home">Pocetna </string>>
+    <string name="activity_apartments">Apartmani </string>
+    <string name="activity_zlatibor">Zlatibor</string>
+    <string name="activity_gallery">Galerija</string>
+    <string name="activity_contact">Kontakt</string>
+
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+</resources>
